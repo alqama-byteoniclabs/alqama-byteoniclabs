@@ -126,17 +126,4 @@ Designing and building production platforms since day one.
 
 🌐 https://byteoniclabs.com  
 📩 hello@byteoniclabs.com  
-🔗 https://www.linkedin.com/company/byteonic-labs  
-
----
-
-## GitHub
-
-This organization contains:
-- Production-grade systems  
-- Internal tooling  
-- Platform infrastructure  
-- AI automation engines  
-- Scalable architecture patterns  
-
-Built by engineers. Used by businesses.
+🔗 https://www.linkedin.com/company/byteonic-labs
