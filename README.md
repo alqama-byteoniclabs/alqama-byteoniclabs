@@ -125,5 +125,5 @@ Designing and building production platforms since day one.
 ## Contact
 
 🌐 https://byteoniclabs.com  
-📩 hello@byteoniclabs.com  
+📩 alqama@byteoniclabs.com  
 🔗 https://www.linkedin.com/company/byteonic-labs
