@@ -60,7 +60,7 @@ We don’t just write code — we design systems that last.
 ### CMS & Platforms
 - WordPress (custom themes, plugins, ACF)  
 - Strapi (headless CMS)
-- Webflow, Framer etc.
+- Webflow, Framer, Wix
 
 ---
 
