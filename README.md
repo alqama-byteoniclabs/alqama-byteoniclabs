@@ -1,8 +1,8 @@
 # Byteonic Labs — Engineering Systems for Real Businesses
 
-We build **production-grade web platforms and AI systems** for companies that care about performance, scale, and real business outcomes.
+We build **Production-Grade Web Platforms and AI Systems** for companies that care about performance, scale, and real business outcomes.
 
-Byteonic Labs is an engineering-first studio focused on **AI implementation, automation, and high-performance web systems**.
+Byteonic Labs is an engineering-first studio focused on **AI Implementation, Automation, and High-Performance Web Systems**.
 
 We don’t ship demos.  
 We ship systems that survive real traffic, real users, and real business pressure.
