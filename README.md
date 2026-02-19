@@ -11,7 +11,7 @@ We ship systems that survive real traffic, real users, and real business pressur
 
 ## What We Build
 
-We design, build, and operate:
+We Design, build, and operate:
 
 - **Scalable web platforms** (B2B, SaaS, internal tools)
 - **AI systems** (RAG, agents, automation, workflow engines)
