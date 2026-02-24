@@ -17,7 +17,7 @@ We Design, build, and operate:
 - **AI systems** (RAG, agents, automation, workflow engines)
 - **Backend infrastructure** (APIs, queues, cron, microservices)
 - **Data pipelines & tracking systems**
-- **High-performance SEO-driven platforms**
+- **High-Performance SEO-driven platforms**
 
 From idea → architecture → deployment → scale.
 
