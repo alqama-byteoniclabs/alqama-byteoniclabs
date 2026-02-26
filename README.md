@@ -70,7 +70,7 @@ We don’t just write code — we design systems that last.
 - Internal tools and workflow engines  
 - High-performance SEO platforms  
 - Scalable backend architecture  
-- AI-powered operations systems  
+- AI-Powered operations systems  
 
 We work with companies that want **systems**, not experiments.
 
